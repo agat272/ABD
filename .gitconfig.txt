@@ -1,0 +1,3 @@
+[user]
+    name = Agata
+    email = aswatow@student.agh.edu.pl
