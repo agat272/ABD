@@ -1,0 +1,9 @@
+All data are from directory cointaing data behind the story :
+The Rock Isn’t Alone: Lots Of People Are Worried About ‘The Big One’.
+
+Website address:
+https://fivethirtyeight.com/features/the-rock-isnt-alone-lots-of-people-are-worried-about-the-big-one/
+
+If you wish to obtain original data, please go to github (to which, address was provided in the article mentioned above):
+https://github.com/fivethirtyeight/data/tree/master/san-andreas
+
